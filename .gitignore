@@ -1,0 +1,6 @@
+
+*.sh
+*.gold
+*.in
+*.out
+*.class
