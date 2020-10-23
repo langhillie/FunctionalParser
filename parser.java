@@ -1,13 +1,14 @@
 
 /*
-  Parser for CSCI 3136 Assignment 5
-  Update: added semantic analysis for Assignment 7
+  Parser for Assignment 5
 
   Author: Justin Langille
   Date: June 26, 2019
+  
   Updated: July 11, 2019
+  Added semantic analysis for Assignment 7
 
-  Update2: July 17th, 2019
+  Update2: July 17, 2019
   Added DEF and LET
 */
 
